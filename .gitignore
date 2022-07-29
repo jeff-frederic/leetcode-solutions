@@ -4,7 +4,7 @@ out/
 !**/src/test/**/out/
 .idea/
 leetcode-solutions.iml
-/src/
+src/
 
 ### Eclipse ###
 .apt_generated
