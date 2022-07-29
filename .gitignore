@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .idea/
 leetcode-solutions.iml
+/src/
 
 ### Eclipse ###
 .apt_generated
@@ -31,4 +32,3 @@ bin/
 .DS_Store
 
 ### For Repo Organizing ###
-/src/Main.java
